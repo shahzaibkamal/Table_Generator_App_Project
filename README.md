@@ -1,9 +1,9 @@
 | Image | Description |
 | ----- | ----------- |
-| <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/e568b159-d231-43a5-899c-8d80ddfa5854" width="180" height="320" alt="Image 1"> | Description of Image 1 |
-| <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/aaa54c49-fb03-436f-acec-2271062d69d5" width="180" height="320" alt="Image 2"> | Description of Image 2 |
-| <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/8efa743c-ec7e-460e-8bcb-d4906001185d" width="180" height="320" alt="Image 3"> | Description of Image 3 |
-| <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/5c6abcd5-ff9c-4542-b092-c7b241c7a050" width="180" height="320" alt="Image 4"> | Description of Image 4 |
+| <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/e568b159-d231-43a5-899c-8d80ddfa5854" width="180" height="320" alt="Image 1"> | table app |
+| <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/aaa54c49-fb03-436f-acec-2271062d69d5" width="180" height="320" alt="Image 2"> | select table limts |
+| <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/8efa743c-ec7e-460e-8bcb-d4906001185d" width="180" height="320" alt="Image 3"> | generate table |
+| <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/5c6abcd5-ff9c-4542-b092-c7b241c7a050" width="180" height="320" alt="Image 4"> | aquiz |
 | <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/7e660b42-1f0a-406f-9832-eb1eee2a1918" width="180" height="320" alt="Image 5"> | Description of Image 5 |
 | <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/cc4c1fbf-b6c0-42d6-89a3-18f82bacd8b0" width="180" height="230" alt="Image 6"> | Description of Image 6 |
 
