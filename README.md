@@ -6,7 +6,7 @@
 | <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/1ecccb78-f450-41b4-9536-011cd51dfeed" width="180" height="320" alt="Image 3"> | Generate Quiz |
 | <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/df7b9e41-c101-4dec-a409-3edb4cd440e0" width="180" height="320" alt="Image 4"> | Show correct answer |
 | <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/81be2836-e958-4207-8316-a6ce19e0fae5" width="180" height="320" alt="Image 5"> | Show incorrect answer |
-| <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/394ea04b-a585-452d-b848-c19cfb009446" width="180" height="320" alt="Image 6"> | Show correct answer when correct option is clicked |
+| <img src="https://github.com/shahzaibkamal/Table_Generator_App_Project/assets/161307227/394ea04b-a585-452d-b848-c19cfb009446" width="180" height="320" alt="Image 6"> | Show correct answer when user click correct option  |
 
 
 
